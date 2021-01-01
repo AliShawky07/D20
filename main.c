@@ -5,10 +5,7 @@ int main(void)
 {
 	
 	int z = 8;
-<<<<<<< HEAD
-=======
-	int x = 12;
->>>>>>> test
+	int x = 12, v = 6;
 	
 	
 	
