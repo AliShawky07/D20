@@ -8,6 +8,6 @@ int main(void)
 	int x = 12, v = 6;
 	
 	
-	
+	int master = 66;
 	return 0;
 }
