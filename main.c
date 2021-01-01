@@ -4,7 +4,7 @@
 int main(void)
 {
 	
-	
+	int z = 8;
 	
 	
 	
