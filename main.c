@@ -5,6 +5,10 @@ int main(void)
 {
 	
 	int z = 8;
+<<<<<<< HEAD
+=======
+	int x = 12;
+>>>>>>> test
 	
 	
 	
