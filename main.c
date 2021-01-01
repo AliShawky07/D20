@@ -4,7 +4,8 @@
 int main(void)
 {
 	
-	int x = 10;
+	int z = 8;
+	int x = 12;
 	
 	
 	
